@@ -1,0 +1,18 @@
+MY SKIN RITUAL — PWA
+
+Este pacote já está pronto para GitHub Pages.
+
+PUBLICAÇÃO
+1. Crie um repositório público no GitHub.
+2. Envie todos os arquivos e pastas deste pacote para a raiz.
+3. Acesse Settings > Pages.
+4. Selecione Deploy from a branch > main > /(root).
+5. Salve e aguarde a publicação.
+
+INSTALAÇÃO NO IPHONE
+1. Abra o link publicado no Safari.
+2. Toque no botão Compartilhar.
+3. Escolha “Adicionar à Tela de Início”.
+4. Confirme em “Adicionar”.
+
+O app abre em tela cheia, funciona offline após a primeira visita e salva produtos e rotinas no próprio aparelho.
