@@ -1,0 +1,1077 @@
+[
+  {
+    "brand": "Shin Care",
+    "name": "Hidratante Facial Centella Asiática e Extrato de Arroz",
+    "benefit": "Ajuda a hidratar, acalmar e fortalecer a barreira da pele.",
+    "stage": "Hidratação — após séruns e antes do protetor solar",
+    "image": "assets/images/product-001.webp",
+    "category": "Hidratante / reparador",
+    "periods": [
+      "day",
+      "night"
+    ],
+    "id": "base-001",
+    "averagePriceBRL": 89,
+    "priceUpdated": "2026-07"
+  },
+  {
+    "brand": "Shin Care",
+    "name": "Sérum Pele de Cristal",
+    "benefit": "Produto iluminador; composição e benefícios exatos precisam ser confirmados pelo rótulo oficial.",
+    "stage": "Tratamento — após limpeza e antes do hidratante",
+    "image": "assets/images/product-002.webp",
+    "category": "Sérum / tratamento",
+    "periods": [
+      "day",
+      "night"
+    ],
+    "id": "base-002",
+    "averagePriceBRL": 79,
+    "priceUpdated": "2026-07"
+  },
+  {
+    "brand": "Shin Care",
+    "name": "Sérum Olhos de Jade",
+    "benefit": "Cuidado para a área dos olhos; benefícios exatos precisam ser confirmados pelo rótulo oficial.",
+    "stage": "Área dos olhos — antes do hidratante",
+    "image": "assets/images/product-003.webp",
+    "category": "Área dos olhos",
+    "periods": [
+      "day",
+      "night"
+    ],
+    "id": "base-003",
+    "averagePriceBRL": 69,
+    "priceUpdated": "2026-07"
+  },
+  {
+    "brand": "The Ordinary",
+    "name": "Niacinamide 10% + Zinc 1%",
+    "benefit": "Ajuda no controle da oleosidade, aparência dos poros e marcas pós-acne.",
+    "stage": "Sérum aquoso — após limpeza e antes do hidratante",
+    "image": "assets/images/product-004.webp",
+    "category": "Sérum / tratamento",
+    "periods": [
+      "day",
+      "night"
+    ],
+    "id": "base-004",
+    "averagePriceBRL": 125,
+    "priceUpdated": "2026-07"
+  },
+  {
+    "brand": "The Ordinary",
+    "name": "Glycolic Acid 7% Exfoliating Toner",
+    "benefit": "Esfoliação química para textura irregular, opacidade e manchas superficiais.",
+    "stage": "Tônico esfoliante noturno — uso espaçado; antes dos séruns",
+    "image": "assets/images/product-005.webp",
+    "category": "Tratamento noturno / renovação",
+    "periods": [
+      "night"
+    ],
+    "id": "base-005",
+    "averagePriceBRL": 190,
+    "priceUpdated": "2026-07"
+  },
+  {
+    "brand": "The Ordinary",
+    "name": "Azelaic Acid Suspension 10%",
+    "benefit": "Ajuda em manchas, vermelhidão, acne e textura irregular.",
+    "stage": "Tratamento em creme — após séruns aquosos e antes ou no lugar do hidratante",
+    "image": "assets/images/product-006.webp",
+    "category": "Sérum / tratamento",
+    "periods": [
+      "day",
+      "night"
+    ],
+    "id": "base-006",
+    "averagePriceBRL": 150,
+    "priceUpdated": "2026-07"
+  },
+  {
+    "brand": "Clinique",
+    "name": "Moisture Surge 100H Auto-Replenishing Hydrator",
+    "benefit": "Hidratação intensa e suporte à barreira, com textura em gel.",
+    "stage": "Hidratante — após séruns e antes do protetor solar",
+    "image": "assets/images/product-007.webp",
+    "category": "Hidratante / reparador",
+    "periods": [
+      "day",
+      "night"
+    ],
+    "id": "base-007",
+    "averagePriceBRL": 280,
+    "priceUpdated": "2026-07"
+  },
+  {
+    "brand": "Lilyeve",
+    "name": "Grow:Turn Exosome Brush Ampoule",
+    "benefit": "Ampola de tratamento com proposta regeneradora e firmadora; benefícios exatos devem ser confirmados pela embalagem.",
+    "stage": "Tratamento — após tônico e antes do hidratante",
+    "image": "assets/images/product-008.webp",
+    "category": "Cabelo / couro cabeludo",
+    "periods": [
+      "day",
+      "night"
+    ],
+    "id": "base-008",
+    "averagePriceBRL": 235,
+    "priceUpdated": "2026-07"
+  },
+  {
+    "brand": "VT Cosmetics",
+    "name": "VT AZ Care Lock Mask (Azelaic Acid)",
+    "benefit": "Proposta calmante e uniformizadora; produto exato precisa ser identificado.",
+    "stage": "Máscara/tratamento — conforme instrução do fabricante",
+    "image": "assets/images/product-009.webp",
+    "category": "Máscara / uso semanal",
+    "periods": [
+      "night"
+    ],
+    "id": "base-009",
+    "averagePriceBRL": 115,
+    "priceUpdated": "2026-07"
+  },
+  {
+    "brand": "VT Cosmetics",
+    "name": "VT PDRN Reedle Shot Eye Lifter",
+    "benefit": "Cuidado para linhas finas, hidratação e aparência cansada da área dos olhos.",
+    "stage": "Área dos olhos — antes do hidratante",
+    "image": "assets/images/product-010.webp",
+    "category": "Área dos olhos",
+    "periods": [
+      "day",
+      "night"
+    ],
+    "id": "base-010",
+    "averagePriceBRL": 190,
+    "priceUpdated": "2026-07"
+  },
+  {
+    "brand": "Caudalie",
+    "name": "Vinoperfect Radiance Serum",
+    "benefit": "Ajuda a reduzir a aparência de manchas e aumentar a luminosidade.",
+    "stage": "Sérum — após limpeza/tônico e antes do hidratante",
+    "image": "assets/images/product-011.webp",
+    "category": "Sérum / tratamento",
+    "periods": [
+      "day",
+      "night"
+    ],
+    "id": "base-011",
+    "averagePriceBRL": 390,
+    "priceUpdated": "2026-07"
+  },
+  {
+    "brand": "Caudalie",
+    "name": "Resveratrol-Lift Instant Firming Serum",
+    "benefit": "Linha com foco em firmeza, elasticidade e linhas de expressão.",
+    "stage": "Tratamento — etapa varia entre sérum, creme ou contorno dos olhos",
+    "image": "assets/images/product-012.webp",
+    "category": "Sérum / tratamento",
+    "periods": [
+      "day",
+      "night"
+    ],
+    "id": "base-012",
+    "averagePriceBRL": 520,
+    "priceUpdated": "2026-07"
+  },
+  {
+    "brand": "Atomy",
+    "name": "Daily Expert Mask Firming",
+    "benefit": "Máscara com foco em hidratação e aparência mais firme.",
+    "stage": "Máscara — após limpeza; antes do hidratante",
+    "image": "assets/images/product-013.webp",
+    "category": "Máscara / uso semanal",
+    "periods": [
+      "night"
+    ],
+    "id": "base-013",
+    "averagePriceBRL": 18,
+    "priceUpdated": "2026-07"
+  },
+  {
+    "brand": "Atomy",
+    "name": "Atomy Lip Glow",
+    "benefit": "Ajuda a hidratar e dar brilho aos lábios.",
+    "stage": "Lábios — ao longo do dia",
+    "image": "assets/images/product-014.webp",
+    "category": "Lábios",
+    "periods": [
+      "day",
+      "night"
+    ],
+    "id": "base-014",
+    "averagePriceBRL": 55,
+    "priceUpdated": "2026-07"
+  },
+  {
+    "brand": "Atomy",
+    "name": "Absolute CellActive Ampoule",
+    "benefit": "Ampola premium com proposta de hidratação, viço e cuidado antissinais.",
+    "stage": "Tratamento — antes do hidratante",
+    "image": "assets/images/product-015.webp",
+    "category": "Essência / ampola",
+    "periods": [
+      "day",
+      "night"
+    ],
+    "id": "base-015",
+    "averagePriceBRL": 380,
+    "priceUpdated": "2026-07"
+  },
+  {
+    "brand": "Atomy",
+    "name": "Absolute Snow Dark Spot Corrector",
+    "benefit": "Tratamento localizado para aparência de manchas escuras.",
+    "stage": "Tratamento localizado — antes do hidratante",
+    "image": "assets/images/product-016.webp",
+    "category": "Sérum / tratamento",
+    "periods": [
+      "day",
+      "night"
+    ],
+    "id": "base-016",
+    "averagePriceBRL": 250,
+    "priceUpdated": "2026-07"
+  },
+  {
+    "brand": "Bioderma",
+    "name": "Sensibio H2O",
+    "benefit": "Água micelar para remover maquiagem, protetor solar e impurezas, especialmente em pele sensível.",
+    "stage": "Primeira etapa da limpeza",
+    "image": "assets/images/product-017.webp",
+    "category": "Limpeza",
+    "periods": [
+      "day",
+      "night"
+    ],
+    "id": "base-017",
+    "averagePriceBRL": 75,
+    "priceUpdated": "2026-07"
+  },
+  {
+    "brand": "Bioderma",
+    "name": "Photoderm XDefense Ultra-Fluid FPS 50+",
+    "benefit": "Proteção solar contra radiação UV; benefícios adicionais variam conforme a versão.",
+    "stage": "Última etapa da rotina diurna",
+    "image": "assets/images/product-018.webp",
+    "category": "Protetor solar",
+    "periods": [
+      "day"
+    ],
+    "id": "base-018",
+    "averagePriceBRL": 115,
+    "priceUpdated": "2026-07"
+  },
+  {
+    "brand": "Bioderma",
+    "name": "Sensibio Gel Moussant",
+    "benefit": "Limpeza suave para pele sensível, sem sensação agressiva.",
+    "stage": "Limpeza — manhã e/ou noite",
+    "image": "assets/images/product-019.webp",
+    "category": "Limpeza",
+    "periods": [
+      "day",
+      "night"
+    ],
+    "id": "base-019",
+    "averagePriceBRL": 80,
+    "priceUpdated": "2026-07"
+  },
+  {
+    "brand": "ISDIN",
+    "name": "Fotoprotector ISDIN UV Mineral Brush FPS 50",
+    "benefit": "Ajuda a reforçar a proteção solar e controlar o brilho ao longo do dia.",
+    "stage": "Reaplicação do protetor solar",
+    "image": "assets/images/product-020.webp",
+    "category": "Protetor solar",
+    "periods": [
+      "day"
+    ],
+    "id": "base-020",
+    "averagePriceBRL": 195,
+    "priceUpdated": "2026-07"
+  },
+  {
+    "brand": "Dermage",
+    "name": "Photoage Water FPS 50",
+    "benefit": "Proteção solar facial com textura fluida.",
+    "stage": "Última etapa da rotina diurna",
+    "image": "assets/images/product-021.webp",
+    "category": "Protetor solar",
+    "periods": [
+      "day"
+    ],
+    "id": "base-021",
+    "averagePriceBRL": 105,
+    "priceUpdated": "2026-07"
+  },
+  {
+    "brand": "Dermage",
+    "name": "Secatriz Prebio Control Gel Creme Oil Free",
+    "benefit": "Hidratação com foco em pele oleosa ou acneica; versão exata precisa ser confirmada.",
+    "stage": "Hidratante — após séruns",
+    "image": "assets/images/product-022.webp",
+    "category": "Hidratante / reparador",
+    "periods": [
+      "day",
+      "night"
+    ],
+    "id": "base-022",
+    "averagePriceBRL": 135,
+    "priceUpdated": "2026-07"
+  },
+  {
+    "brand": "Mantecorp",
+    "name": "Epidrat Calm",
+    "benefit": "Hidratante calmante para pele sensível, ressecada ou sensibilizada.",
+    "stage": "Hidratante — após séruns",
+    "image": "assets/images/product-023.webp",
+    "category": "Hidratante / reparador",
+    "periods": [
+      "day",
+      "night"
+    ],
+    "id": "base-023",
+    "averagePriceBRL": 95,
+    "priceUpdated": "2026-07"
+  },
+  {
+    "brand": "Mantecorp",
+    "name": "Episol Color Pó Compacto FPS 50",
+    "benefit": "Reforço da proteção solar com cobertura e acabamento em pó.",
+    "stage": "Reaplicação durante o dia",
+    "image": "assets/images/product-024.webp",
+    "category": "Protetor solar",
+    "periods": [
+      "day"
+    ],
+    "id": "base-024",
+    "averagePriceBRL": 150,
+    "priceUpdated": "2026-07"
+  },
+  {
+    "brand": "Mantecorp",
+    "name": "Blancy TX",
+    "benefit": "Tratamento clareador para manchas e tom irregular.",
+    "stage": "Tratamento — antes do hidratante; uso conforme orientação do fabricante",
+    "image": "assets/images/product-025.webp",
+    "category": "Sérum / tratamento",
+    "periods": [
+      "day",
+      "night"
+    ],
+    "id": "base-025",
+    "averagePriceBRL": 180,
+    "priceUpdated": "2026-07"
+  },
+  {
+    "brand": "Eucerin",
+    "name": "Aquaphor Pomada Reparadora",
+    "benefit": "Ajuda a proteger e reparar áreas muito ressecadas ou sensibilizadas.",
+    "stage": "Etapa final/oclusiva — uso localizado",
+    "image": "assets/images/product-026.webp",
+    "category": "Hidratante / reparador",
+    "periods": [
+      "day",
+      "night"
+    ],
+    "id": "base-026",
+    "averagePriceBRL": 70,
+    "priceUpdated": "2026-07"
+  },
+  {
+    "brand": "Eucerin",
+    "name": "Anti-Pigment Dual Serum",
+    "benefit": "Ajuda a reduzir manchas e prevenir o reaparecimento.",
+    "stage": "Sérum — antes do hidratante",
+    "image": "assets/images/product-027.webp",
+    "category": "Sérum / tratamento",
+    "periods": [
+      "day",
+      "night"
+    ],
+    "id": "base-027",
+    "averagePriceBRL": 330,
+    "priceUpdated": "2026-07"
+  },
+  {
+    "brand": "Eucerin",
+    "name": "Anti-Pigment Dark Circle Eye Corrector",
+    "benefit": "Ajuda na aparência de olheiras, linhas finas e luminosidade da área dos olhos.",
+    "stage": "Área dos olhos — antes do hidratante",
+    "image": "assets/images/product-028.webp",
+    "category": "Área dos olhos",
+    "periods": [
+      "day",
+      "night"
+    ],
+    "id": "base-028",
+    "averagePriceBRL": 240,
+    "priceUpdated": "2026-07"
+  },
+  {
+    "brand": "CeraVe",
+    "name": "Loção Facial Hidratante PM",
+    "benefit": "Hidrata e ajuda a restaurar a barreira da pele com ceramidas.",
+    "stage": "Hidratante — principalmente à noite, mas pode ser usado de dia",
+    "image": "assets/images/product-029.webp",
+    "category": "Hidratante / reparador",
+    "periods": [
+      "day",
+      "night"
+    ],
+    "id": "base-029",
+    "averagePriceBRL": 105,
+    "priceUpdated": "2026-07"
+  },
+  {
+    "brand": "Dr. Althea",
+    "name": "345 Relief Cream",
+    "benefit": "Ajuda a acalmar, hidratar e apoiar a recuperação da barreira.",
+    "stage": "Hidratante — após séruns",
+    "image": "assets/images/product-030.webp",
+    "category": "Hidratante / reparador",
+    "periods": [
+      "day",
+      "night"
+    ],
+    "id": "base-030",
+    "averagePriceBRL": 185,
+    "priceUpdated": "2026-07"
+  },
+  {
+    "brand": "Dr. Althea",
+    "name": "PDRN Reju 5000 Cream",
+    "benefit": "Creme com proposta de firmeza, hidratação e reparação; nome/versão precisa ser confirmado.",
+    "stage": "Hidratante ou tratamento final",
+    "image": "assets/images/product-031.webp",
+    "category": "Hidratante / reparador",
+    "periods": [
+      "day",
+      "night"
+    ],
+    "id": "base-031",
+    "averagePriceBRL": 230,
+    "priceUpdated": "2026-07"
+  },
+  {
+    "brand": "Flores & Vegetais",
+    "name": "Creme Facial Pepino & Aloe Vera",
+    "benefit": "Hidratação leve e efeito calmante/refrescante.",
+    "stage": "Hidratante — após séruns",
+    "image": "assets/images/product-032.webp",
+    "category": "Hidratante / reparador",
+    "periods": [
+      "day",
+      "night"
+    ],
+    "id": "base-032",
+    "averagePriceBRL": 25,
+    "priceUpdated": "2026-07"
+  },
+  {
+    "brand": "Flores & Vegetais",
+    "name": "Máscara Facial de Argila + Pepino + Aloe Vera",
+    "benefit": "Ajuda na limpeza, controle de oleosidade e sensação refrescante.",
+    "stage": "Máscara de enxágue — uso semanal",
+    "image": "assets/images/product-033.webp",
+    "category": "Máscara / uso semanal",
+    "periods": [
+      "night"
+    ],
+    "id": "base-033",
+    "averagePriceBRL": 22,
+    "priceUpdated": "2026-07"
+  },
+  {
+    "brand": "Flores & Vegetais",
+    "name": "Creme para Pés Ureia 10%",
+    "benefit": "Ajuda a suavizar ressecamento e aspereza dos pés.",
+    "stage": "Cuidado corporal — preferencialmente à noite",
+    "image": "assets/images/product-034.webp",
+    "category": "Corpo / pés",
+    "periods": [
+      "night"
+    ],
+    "id": "base-034",
+    "averagePriceBRL": 20,
+    "priceUpdated": "2026-07"
+  },
+  {
+    "brand": "Laneige",
+    "name": "Lip Sleeping Mask Berry",
+    "benefit": "Máscara labial para hidratação intensa e suavização do ressecamento.",
+    "stage": "Última etapa noturna nos lábios",
+    "image": "assets/images/product-035.webp",
+    "category": "Lábios",
+    "periods": [
+      "night"
+    ],
+    "id": "base-035",
+    "averagePriceBRL": 150,
+    "priceUpdated": "2026-07"
+  },
+  {
+    "brand": "Laneige",
+    "name": "Water Sleeping Mask",
+    "benefit": "Máscara noturna hidratante para viço e conforto da pele.",
+    "stage": "Última etapa da rotina noturna, algumas vezes por semana",
+    "image": "assets/images/product-036.webp",
+    "category": "Máscara / uso semanal",
+    "periods": [
+      "night"
+    ],
+    "id": "base-036",
+    "averagePriceBRL": 180,
+    "priceUpdated": "2026-07"
+  },
+  {
+    "brand": "Medicube",
+    "name": "Collagen Jelly Cream",
+    "benefit": "Hidratação com proposta de firmeza e efeito de pele mais viçosa.",
+    "stage": "Hidratante — após séruns",
+    "image": "assets/images/product-037.webp",
+    "category": "Hidratante / reparador",
+    "periods": [
+      "day",
+      "night"
+    ],
+    "id": "base-037",
+    "averagePriceBRL": 190,
+    "priceUpdated": "2026-07"
+  },
+  {
+    "brand": "Medicube",
+    "name": "AGE-R Booster Pro",
+    "benefit": "Dispositivo cosmético para potencializar a rotina; uso depende do modo selecionado.",
+    "stage": "Dispositivo — conforme manual e produtos compatíveis",
+    "image": "assets/images/product-038.webp",
+    "category": "Equipamentos e dispositivos",
+    "periods": [
+      "day",
+      "night"
+    ],
+    "id": "base-038",
+    "averagePriceBRL": 1650,
+    "priceUpdated": "2026-07"
+  },
+  {
+    "brand": "Medicube",
+    "name": "Zero Pore Serum 2.0",
+    "benefit": "Ajuda na aparência dos poros, textura e oleosidade.",
+    "stage": "Sérum — antes do hidratante",
+    "image": "assets/images/product-039.webp",
+    "category": "Sérum / tratamento",
+    "periods": [
+      "day",
+      "night"
+    ],
+    "id": "base-039",
+    "averagePriceBRL": 175,
+    "priceUpdated": "2026-07"
+  },
+  {
+    "brand": "Medicube",
+    "name": "PDRN Pink Niacinamide Milky Toner",
+    "benefit": "Tônico leitoso hidratante com proposta de viço e suporte à barreira.",
+    "stage": "Após limpeza e antes dos séruns",
+    "image": "assets/images/product-040.webp",
+    "category": "Tônico / loção",
+    "periods": [
+      "day",
+      "night"
+    ],
+    "id": "base-040",
+    "averagePriceBRL": 190,
+    "priceUpdated": "2026-07"
+  },
+  {
+    "brand": "Creamy",
+    "name": "Sérum Anti-idade Retinal",
+    "benefit": "Ajuda em linhas finas, textura, firmeza e manchas.",
+    "stage": "Tratamento noturno — após limpeza e antes do hidratante",
+    "image": "assets/images/product-041.webp",
+    "category": "Tratamento noturno / renovação",
+    "periods": [
+      "night"
+    ],
+    "id": "base-041",
+    "averagePriceBRL": 150,
+    "priceUpdated": "2026-07"
+  },
+  {
+    "brand": "Creamy",
+    "name": "Ceramide Skin Repair",
+    "benefit": "Ajuda a reparar a barreira e reduzir ressecamento e sensibilidade.",
+    "stage": "Hidratante/reparador — após tratamentos",
+    "image": "assets/images/product-042.webp",
+    "category": "Hidratante / reparador",
+    "periods": [
+      "day",
+      "night"
+    ],
+    "id": "base-042",
+    "averagePriceBRL": 170,
+    "priceUpdated": "2026-07"
+  },
+  {
+    "brand": "Celimax",
+    "name": "Pore + Dark Spot Brightening Cream",
+    "benefit": "Ajuda em manchas, poros aparentes e luminosidade.",
+    "stage": "Sérum — antes do hidratante",
+    "image": "assets/images/product-043.webp",
+    "category": "Sérum / tratamento",
+    "periods": [
+      "day",
+      "night"
+    ],
+    "id": "base-043",
+    "averagePriceBRL": 160,
+    "priceUpdated": "2026-07"
+  },
+  {
+    "brand": "Celimax",
+    "name": "Retinal Shot Tightening Booster",
+    "benefit": "Tratamento com retinal para firmeza, textura e linhas finas.",
+    "stage": "Tratamento noturno — uso gradual",
+    "image": "assets/images/product-044.webp",
+    "category": "Tratamento noturno / renovação",
+    "periods": [
+      "night"
+    ],
+    "id": "base-044",
+    "averagePriceBRL": 170,
+    "priceUpdated": "2026-07"
+  },
+  {
+    "brand": "Celimax",
+    "name": "Noni Energy Ampoule",
+    "benefit": "Ampola hidratante e calmante com foco em viço e barreira.",
+    "stage": "Tratamento — antes do hidratante",
+    "image": "assets/images/product-045.webp",
+    "category": "Essência / ampola",
+    "periods": [
+      "day",
+      "night"
+    ],
+    "id": "base-045",
+    "averagePriceBRL": 190,
+    "priceUpdated": "2026-07"
+  },
+  {
+    "brand": "SKIN1004",
+    "name": "Tone Brightening Capsule Ampoule",
+    "benefit": "Ajuda na luminosidade, tom irregular e marcas.",
+    "stage": "Ampola — antes do hidratante",
+    "image": "assets/images/product-046.webp",
+    "category": "Essência / ampola",
+    "periods": [
+      "day",
+      "night"
+    ],
+    "id": "base-046",
+    "averagePriceBRL": 160,
+    "priceUpdated": "2026-07"
+  },
+  {
+    "brand": "SKIN1004",
+    "name": "Tea-Trica B5 Cream",
+    "benefit": "Ajuda a acalmar pele acneica e apoiar a barreira.",
+    "stage": "Hidratante — após séruns",
+    "image": "assets/images/product-047.webp",
+    "category": "Hidratante / reparador",
+    "periods": [
+      "day",
+      "night"
+    ],
+    "id": "base-047",
+    "averagePriceBRL": 150,
+    "priceUpdated": "2026-07"
+  },
+  {
+    "brand": "SKIN1004",
+    "name": "Madagascar Centella Soothing Cream",
+    "benefit": "Hidratação calmante e leve para pele sensibilizada.",
+    "stage": "Hidratante — após séruns",
+    "image": "assets/images/product-048.webp",
+    "category": "Hidratante / reparador",
+    "periods": [
+      "day",
+      "night"
+    ],
+    "id": "base-048",
+    "averagePriceBRL": 155,
+    "priceUpdated": "2026-07"
+  },
+  {
+    "brand": "SKIN1004",
+    "name": "Probio-Cica Bakuchiol Eye Cream",
+    "benefit": "Ajuda na hidratação, firmeza e linhas finas da área dos olhos.",
+    "stage": "Área dos olhos — antes do hidratante",
+    "image": "assets/images/product-049.webp",
+    "category": "Área dos olhos",
+    "periods": [
+      "day",
+      "night"
+    ],
+    "id": "base-049",
+    "averagePriceBRL": 175,
+    "priceUpdated": "2026-07"
+  },
+  {
+    "brand": "SKIN1004",
+    "name": "Centella Poremizing Quick Clay Stick Mask",
+    "benefit": "Máscara de argila em bastão para oleosidade e aparência dos poros.",
+    "stage": "Máscara de enxágue — uso semanal",
+    "image": "assets/images/product-050.webp",
+    "category": "Máscara / uso semanal",
+    "periods": [
+      "night"
+    ],
+    "id": "base-050",
+    "averagePriceBRL": 135,
+    "priceUpdated": "2026-07"
+  },
+  {
+    "brand": "The Joy Lab",
+    "name": "AquaPro Cooler",
+    "benefit": "Produto refrescante/hidratante indicado antes do protetor solar; composição precisa ser confirmada.",
+    "stage": "Antes do protetor solar",
+    "image": "assets/images/product-051.webp",
+    "category": "Hidratante / reparador",
+    "periods": [
+      "day"
+    ],
+    "id": "base-051",
+    "averagePriceBRL": 90,
+    "priceUpdated": "2026-07"
+  },
+  {
+    "brand": "The Joy Lab",
+    "name": "Freshen Cleansing Oil",
+    "benefit": "Óleo de limpeza para remover maquiagem, protetor e oleosidade.",
+    "stage": "Primeira etapa da limpeza noturna",
+    "image": "assets/images/product-052.webp",
+    "category": "Limpeza",
+    "periods": [
+      "night"
+    ],
+    "id": "base-052",
+    "averagePriceBRL": 75,
+    "priceUpdated": "2026-07"
+  },
+  {
+    "brand": "The Joy Lab",
+    "name": "Power Bright Stick",
+    "benefit": "Tratamento em bastão com proposta iluminadora; ativos precisam ser confirmados.",
+    "stage": "Tratamento localizado — antes do hidratante/protetor",
+    "image": "assets/images/product-053.webp",
+    "category": "Sérum / tratamento",
+    "periods": [
+      "day",
+      "night"
+    ],
+    "id": "base-053",
+    "averagePriceBRL": 85,
+    "priceUpdated": "2026-07"
+  },
+  {
+    "brand": "The Joy Lab",
+    "name": "Powerful Retinoid",
+    "benefit": "Tratamento com retinoide para linhas, textura e manchas.",
+    "stage": "Tratamento noturno — uso gradual",
+    "image": "assets/images/product-054.webp",
+    "category": "Tratamento noturno / renovação",
+    "periods": [
+      "night"
+    ],
+    "id": "base-054",
+    "averagePriceBRL": 120,
+    "priceUpdated": "2026-07"
+  },
+  {
+    "brand": "The Joy Lab",
+    "name": "Powerful Force Serum",
+    "benefit": "Benefícios exatos dependem da fórmula oficial.",
+    "stage": "Sérum — antes do hidratante",
+    "image": "assets/images/product-055.webp",
+    "category": "Sérum / tratamento",
+    "periods": [
+      "day",
+      "night"
+    ],
+    "id": "base-055",
+    "averagePriceBRL": 130,
+    "priceUpdated": "2026-07"
+  },
+  {
+    "brand": "The Joy Lab",
+    "name": "Power Clarity Serum",
+    "benefit": "Proposta de controle de imperfeições e uniformização; ativos precisam ser confirmados.",
+    "stage": "Sérum — antes do hidratante",
+    "image": "assets/images/product-056.webp",
+    "category": "Sérum / tratamento",
+    "periods": [
+      "day",
+      "night"
+    ],
+    "id": "base-056",
+    "averagePriceBRL": 120,
+    "priceUpdated": "2026-07"
+  },
+  {
+    "brand": "The Joy Lab",
+    "name": "AquaPro Ceramida Gel Hidratante",
+    "benefit": "Hidratação e suporte à barreira com ceramidas.",
+    "stage": "Hidratante — após séruns",
+    "image": "assets/images/product-057.webp",
+    "category": "Hidratante / reparador",
+    "periods": [
+      "day",
+      "night"
+    ],
+    "id": "base-057",
+    "averagePriceBRL": 80,
+    "priceUpdated": "2026-07"
+  },
+  {
+    "brand": "AXIS-Y",
+    "name": "Dark Spot Correcting Glow Serum",
+    "benefit": "Ajuda a reduzir marcas escuras e aumentar a luminosidade.",
+    "stage": "Sérum — antes do hidratante",
+    "image": "assets/images/product-058.webp",
+    "category": "Sérum / tratamento",
+    "periods": [
+      "day",
+      "night"
+    ],
+    "id": "base-058",
+    "averagePriceBRL": 120,
+    "priceUpdated": "2026-07"
+  },
+  {
+    "brand": "AXIS-Y",
+    "name": "Vegan Collagen Eye Serum",
+    "benefit": "Ajuda na hidratação e aparência de firmeza da área dos olhos.",
+    "stage": "Área dos olhos — antes do hidratante",
+    "image": "assets/images/product-059.webp",
+    "category": "Área dos olhos",
+    "periods": [
+      "day",
+      "night"
+    ],
+    "id": "base-059",
+    "averagePriceBRL": 135,
+    "priceUpdated": "2026-07"
+  },
+  {
+    "brand": "Senka",
+    "name": "Perfect Whip",
+    "benefit": "Espuma de limpeza profunda; pode ser mais intensa para peles secas ou sensíveis.",
+    "stage": "Limpeza — preferencialmente uma vez ao dia conforme tolerância",
+    "image": "assets/images/product-060.webp",
+    "category": "Limpeza",
+    "periods": [
+      "day",
+      "night"
+    ],
+    "id": "base-060",
+    "averagePriceBRL": 65,
+    "priceUpdated": "2026-07"
+  },
+  {
+    "brand": "Livealoe",
+    "name": "Puro Gel de Aloe",
+    "benefit": "Ajuda a refrescar, hidratar e acalmar a pele.",
+    "stage": "Gel calmante — antes do hidratante ou uso localizado",
+    "image": "assets/images/product-061.webp",
+    "category": "Hidratante / reparador",
+    "periods": [
+      "day",
+      "night"
+    ],
+    "id": "base-061",
+    "averagePriceBRL": 55,
+    "priceUpdated": "2026-07"
+  },
+  {
+    "brand": "Kokeshi",
+    "name": "Sérum Roll-on Adeus Olheiras",
+    "benefit": "Cuidado para aparência de olheiras e cansaço na área dos olhos.",
+    "stage": "Área dos olhos — antes do hidratante",
+    "image": "assets/images/product-062.webp",
+    "category": "Área dos olhos",
+    "periods": [
+      "day",
+      "night"
+    ],
+    "id": "base-062",
+    "averagePriceBRL": 70,
+    "priceUpdated": "2026-07"
+  },
+  {
+    "brand": "Kokeshi",
+    "name": "Hidratante Facial Pele de Porcelana",
+    "benefit": "Hidratação e proposta de luminosidade/uniformização.",
+    "stage": "Hidratante — após séruns",
+    "image": "assets/images/product-063.webp",
+    "category": "Hidratante / reparador",
+    "periods": [
+      "day",
+      "night"
+    ],
+    "id": "base-063",
+    "averagePriceBRL": 80,
+    "priceUpdated": "2026-07"
+  },
+  {
+    "brand": "Kokeshi",
+    "name": "Creme Gel Facial Pele Plena",
+    "benefit": "Hidratação facial leve; benefícios exatos dependem da fórmula.",
+    "stage": "Hidratante — após séruns",
+    "image": "assets/images/product-064.webp",
+    "category": "Hidratante / reparador",
+    "periods": [
+      "day",
+      "night"
+    ],
+    "id": "base-064",
+    "averagePriceBRL": 80,
+    "priceUpdated": "2026-07"
+  },
+  {
+    "brand": "Kokeshi",
+    "name": "Creme Gel Facial Chuva de Ozônio",
+    "benefit": "Produto facial hidratante; benefícios exatos precisam ser confirmados.",
+    "stage": "Hidratante — após séruns",
+    "image": "assets/images/product-065.webp",
+    "category": "Hidratante / reparador",
+    "periods": [
+      "day",
+      "night"
+    ],
+    "id": "base-065",
+    "averagePriceBRL": 85,
+    "priceUpdated": "2026-07"
+  },
+  {
+    "brand": "Kokeshi",
+    "name": "Hidratante Renovador Olhos de Gueixa",
+    "benefit": "Hidratação e cuidado renovador para a área dos olhos.",
+    "stage": "Área dos olhos — antes do hidratante",
+    "image": "assets/images/product-066.webp",
+    "category": "Área dos olhos",
+    "periods": [
+      "day",
+      "night"
+    ],
+    "id": "base-066",
+    "averagePriceBRL": 95,
+    "priceUpdated": "2026-07"
+  },
+  {
+    "brand": "numbuzin",
+    "name": "No.9 NAD+ BIO Lifting-Sil Essence",
+    "benefit": "Essência com proposta de firmeza, elasticidade e viço.",
+    "stage": "Essência — após tônico e antes dos séruns/creme",
+    "image": "assets/images/product-067.webp",
+    "category": "Essência / ampola",
+    "periods": [
+      "day",
+      "night"
+    ],
+    "id": "base-067",
+    "averagePriceBRL": 180,
+    "priceUpdated": "2026-07"
+  },
+  {
+    "brand": "numbuzin",
+    "name": "No.9 NAD+ Retinal Volumetox Eye Cream",
+    "benefit": "Ajuda em linhas finas e firmeza da área dos olhos; contém retinal.",
+    "stage": "Área dos olhos à noite — uso gradual",
+    "image": "assets/images/product-068.webp",
+    "category": "Área dos olhos",
+    "periods": [
+      "night"
+    ],
+    "id": "base-068",
+    "averagePriceBRL": 190,
+    "priceUpdated": "2026-07"
+  },
+  {
+    "brand": "numbuzin",
+    "name": "No.9+ NAD+ PDRN Glow Boosting Toner",
+    "benefit": "Tônico iluminador e hidratante com proposta de firmeza.",
+    "stage": "Após limpeza e antes de essências/séruns",
+    "image": "assets/images/product-069.webp",
+    "category": "Tônico / loção",
+    "periods": [
+      "day",
+      "night"
+    ],
+    "id": "base-069",
+    "averagePriceBRL": 190,
+    "priceUpdated": "2026-07"
+  },
+  {
+    "brand": "Simple Organic",
+    "name": "Primer Blur Effect",
+    "benefit": "Ajuda a suavizar visualmente poros e textura antes da maquiagem.",
+    "stage": "Após o protetor solar e antes da maquiagem",
+    "image": "assets/images/product-070.webp",
+    "category": "Finalização / maquiagem",
+    "periods": [
+      "day"
+    ],
+    "id": "base-070",
+    "averagePriceBRL": 125,
+    "priceUpdated": "2026-07"
+  },
+  {
+    "brand": "Hada Labo",
+    "name": "Gokujyun Cleansing Oil",
+    "benefit": "Óleo de limpeza para remover maquiagem, protetor solar e impurezas.",
+    "stage": "Primeira etapa da limpeza noturna",
+    "image": "assets/images/product-071.webp",
+    "category": "Limpeza",
+    "periods": [
+      "night"
+    ],
+    "id": "base-071",
+    "averagePriceBRL": 130,
+    "priceUpdated": "2026-07"
+  },
+  {
+    "brand": "Hada Labo",
+    "name": "Gokujyun Lotion",
+    "benefit": "Loção hidratante rica em ácido hialurônico para repor água na pele.",
+    "stage": "Após limpeza e antes de séruns/creme",
+    "image": "assets/images/product-072.webp",
+    "category": "Tônico / loção",
+    "periods": [
+      "day",
+      "night"
+    ],
+    "id": "base-072",
+    "averagePriceBRL": 115,
+    "priceUpdated": "2026-07"
+  },
+  {
+    "brand": "Hada Labo",
+    "name": "Shirojyun Premium Lotion",
+    "benefit": "Loção hidratante e iluminadora com foco em manchas e tom irregular.",
+    "stage": "Após limpeza e antes de séruns/creme",
+    "image": "assets/images/product-073.webp",
+    "category": "Tônico / loção",
+    "periods": [
+      "day",
+      "night"
+    ],
+    "id": "base-073",
+    "averagePriceBRL": 145,
+    "priceUpdated": "2026-07"
+  }
+]
