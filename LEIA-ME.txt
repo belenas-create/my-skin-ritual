@@ -1,8 +1,10 @@
-MY SKIN RITUAL — VERSÃO COM PREÇOS MÉDIOS
+MY SKIN RITUAL — CORREÇÃO DE DISPOSITIVOS
 
-Inclui preço médio estimado em reais para os 73 produtos, com referência de julho/2026.
-Os valores são orientativos e podem variar conforme loja, promoção, tamanho da embalagem, frete e procedência.
-Produtos adicionados manualmente também possuem um campo opcional de preço médio.
+Correções desta versão:
+- botão “Adicionar dispositivo” funcionando;
+- salvamento no navegador;
+- dispositivo aparece imediatamente na lista;
+- edição e exclusão dos dispositivos adicionados;
+- cache do aplicativo atualizado para carregar a correção.
 
-PUBLICAÇÃO NO GITHUB
-Extraia o ZIP e substitua todos os arquivos do repositório, mantendo as pastas. Faça o commit e atualize o site com Ctrl + Shift + R.
+No GitHub, envie todos os arquivos desta pasta por cima dos atuais e faça o commit. Não precisa apagar nada antes.
