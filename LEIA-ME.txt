@@ -1,0 +1,5 @@
+MY SKIN RITUAL 2.0
+
+Para publicar, substitua o conteúdo do repositório pelos arquivos e pastas deste pacote, preservando as pastas assets e data. Em Settings > Pages, use main e /(root).
+
+Produtos adicionados ficam salvos no aparelho. A opção + Nova marca está dentro do formulário Adicionar produto. Não existe a tela Minhas marcas.
