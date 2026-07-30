@@ -3,7 +3,9 @@ import { initializeApp } from 'https://www.gstatic.com/firebasejs/12.1.0/firebas
 import {
   getAuth,
   onAuthStateChanged,
-  signInAnonymously
+  GoogleAuthProvider,
+  signInWithPopup,
+  signOut
 } from 'https://www.gstatic.com/firebasejs/12.1.0/firebase-auth.js';
 import {
   collection,
@@ -50,6 +52,14 @@ function emitData(type, value) {
   }));
 }
 
+function emitAuth(user) {
+  window.dispatchEvent(new CustomEvent('skin-cloud-auth', {
+    detail: user
+      ? { uid: user.uid, name: user.displayName, email: user.email, photo: user.photoURL }
+      : null
+  }));
+}
+
 function readJSON(key, fallback) {
   try {
     return JSON.parse(localStorage.getItem(key) || JSON.stringify(fallback));
@@ -72,16 +82,6 @@ function cleanFirestoreValue(value) {
     if (key !== 'updatedAt') result[key] = cleanFirestoreValue(item);
   });
   return result;
-}
-
-function waitForUser() {
-  return new Promise((resolve, reject) => {
-    const stop = onAuthStateChanged(auth, user => {
-      if (!user) return;
-      stop();
-      resolve(user);
-    }, reject);
-  });
 }
 
 function userDoc(...parts) {
@@ -389,32 +389,17 @@ function bindConnectionEvents() {
   });
 }
 
-export async function initializeCloudSync() {
-  bindConnectionEvents();
-
-  if (!hasFirebaseConfig) {
-    emitStatus('local', 'Modo local — falta inserir a configuração do Firebase');
-    return { enabled: false };
-  }
-
+async function handleSignedIn(user) {
+  uid = user.uid;
   try {
-    emitStatus('syncing', 'Conectando ao Firebase…');
-    const app = initializeApp(firebaseConfig);
-    auth = getAuth(app);
-    db = getFirestore(app);
-
-    if (!auth.currentUser) await signInAnonymously(auth);
-    const user = auth.currentUser || await waitForUser();
-    uid = user.uid;
-
+    emitStatus('syncing', 'Conectando à sua conta…');
     const migration = await migrateLocalDataOnce();
     await hydrateLocalStorage();
     ready = true;
     startRealtimeListeners();
     await flushCloudQueue();
-
     emitStatus('online', 'Sincronizado na nuvem');
-    return { enabled: true, uid, migration, authMode: user.isAnonymous ? 'anonymous' : 'account' };
+    return migration;
   } catch (error) {
     console.error('Firebase sync error:', error);
     writeJSON(KEYS.migrationState, {
@@ -424,8 +409,65 @@ export async function initializeCloudSync() {
       failedAt: new Date().toISOString()
     });
     emitStatus('error', 'Falha na nuvem — dados mantidos neste aparelho');
+  }
+}
+
+function handleSignedOut() {
+  unsubscribe.forEach(stop => stop());
+  unsubscribe = [];
+  ready = false;
+  uid = null;
+  emitStatus('local', 'Modo local — entre com sua conta Google para sincronizar entre aparelhos');
+}
+
+export async function initializeCloudSync() {
+  bindConnectionEvents();
+
+  if (!hasFirebaseConfig) {
+    emitStatus('local', 'Modo local — falta inserir a configuração do Firebase');
+    emitAuth(null);
+    return { enabled: false };
+  }
+
+  try {
+    const app = initializeApp(firebaseConfig);
+    auth = getAuth(app);
+    db = getFirestore(app);
+
+    onAuthStateChanged(auth, user => {
+      emitAuth(user);
+      if (user) {
+        handleSignedIn(user);
+      } else {
+        handleSignedOut();
+      }
+    });
+
+    return { enabled: true };
+  } catch (error) {
+    console.error('Firebase init error:', error);
+    emitStatus('error', 'Falha ao iniciar o Firebase');
+    emitAuth(null);
     return { enabled: false, error };
   }
+}
+
+export async function signInWithGoogleAccount() {
+  if (!auth) throw new Error('Firebase não inicializado');
+  emitStatus('syncing', 'Entrando com o Google…');
+  try {
+    const provider = new GoogleAuthProvider();
+    await signInWithPopup(auth, provider);
+  } catch (error) {
+    console.error('Google sign-in failed:', error);
+    emitStatus('error', 'Não foi possível entrar com o Google');
+    throw error;
+  }
+}
+
+export async function signOutOfCloud() {
+  if (!auth) return;
+  await signOut(auth);
 }
 
 export function stopCloudSync() {
